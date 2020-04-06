@@ -54,7 +54,7 @@ $linenos: #A9B7C6;
     color: $selectionForeground;
   }
 }
-.highlight > pre {
+/*.highlight > pre {
   -webkit-box-shadow: inset 0 1px 10px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.1), 0 -1px 0 rgba(0, 0, 0, 0.5);
   -moz-box-shadow: inset 0 1px 10px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.1), 0 -1px 0 rgba(0, 0, 0, 0.5);
   box-shadow: inset 0 1px 10px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.1), 0 -1px 0 rgba(0, 0, 0, 0.5);
@@ -80,7 +80,7 @@ p > code,
 .highlighter-rouge{
   padding: 1px 4px;
   border-radius: 3px;
-}
+}*/
 
 /* line numbers */
 .lineno{ border-right: dashed 1px $linenos !important; color: $linenos; padding-right: 5px; padding-left: 0 !important;}
